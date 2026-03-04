@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(51, 27, 58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#juego{
+
+    border: 3px solid white;
+
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
