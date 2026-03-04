@@ -1,6 +1,6 @@
 {
    "_comment": "ColoresM",
-  "name": "Mi Juego Phaser", 
+  "name": "Intensamente", 
     "_comment1": "nombre corto debajo del icono",
   "short_name": "MiJuego",
    "_comment2": "archivo que abre el juego",
@@ -28,3 +28,4 @@
   ]
 
 }
+
