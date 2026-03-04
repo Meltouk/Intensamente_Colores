@@ -2,7 +2,7 @@
    "_comment": "ColoresM",
   "name": "Intensamente", 
     "_comment1": "nombre corto debajo del icono",
-  "short_name": "MiJuego",
+  "short_name": "Colores",
    "_comment2": "archivo que abre el juego",
   "start_url": "index.html",
     "_comment3": "sin barras de navegador",
@@ -28,4 +28,5 @@
   ]
 
 }
+
 
